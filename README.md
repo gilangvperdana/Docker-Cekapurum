@@ -4,6 +4,8 @@
 
 Ardio project which requires containerization in the process of deploying this "CEKAPURUM" application.
 
+## Requirements
+ 1. DOCKER
 
 ## Build an Image from Dockerfile:
 
