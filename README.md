@@ -1,8 +1,8 @@
-# CEKAPURUM
+# CEKAPURUM from doxxa11 (https://github.com/doxxa11)
 
 ## About
 
-Ardio project which requires containerization in the process of deploying this "CEKAPURUM" application.
+Ardio's project which requires containerization in the process of deploying this "CEKAPURUM" application.
 
 ## Requirements
  1. DOCKER
