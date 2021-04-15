@@ -20,3 +20,6 @@ Ardio project which requires containerization in the process of deploying this "
 ## if you are lazy to create an image:
   1. Type `docker pull gilangvperdana/cekapurum:3000`
   2. After the image is downloaded, run the images.
+
+## Site can be accessed on :
+ `cekapurum.gbesar.com`
