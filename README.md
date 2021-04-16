@@ -23,5 +23,5 @@ Ardio's project which requires containerization in the process of deploying this
   1. Type `docker pull gilangvperdana/cekapurum:3000`
   2. After the image is downloaded, run the images.
 
-## This final site can be accesed on:
+## This final site has been deployed on:
  `cekapurum.gbesar.com`
