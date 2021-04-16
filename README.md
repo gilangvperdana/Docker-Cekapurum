@@ -13,7 +13,7 @@ Ardio's project which requires containerization in the process of deploying this
  2. Go to directory
  3. Type `docker build -t yourimagename .`
  
-## Run image on Docker:
+## Run image to Deploy on Docker:
 
   1. See and select your Docker image, type `docker images`
   2. Type `docker container run -d -p 80:80 yourimagename`
@@ -23,5 +23,5 @@ Ardio's project which requires containerization in the process of deploying this
   1. Type `docker pull gilangvperdana/cekapurum:3000`
   2. After the image is downloaded, run the images.
 
-## Site can be accessed on :
+## This final site can be accesed on:
  `cekapurum.gbesar.com`
