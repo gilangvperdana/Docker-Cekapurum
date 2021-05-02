@@ -24,7 +24,7 @@ Make sure on public>sensor.html line 19 to change to your IP.
   3. Access on `localhost:80`
   
 ## if you are lazy to create an image:
-  1. Type `docker pull gilangvperdana/cekapurum:3000`
+  1. Type `docker pull gilangvperdana/cekapurum:80`
   2. After the image is downloaded, run the images.
 
 ## This final site has been deployed on:
