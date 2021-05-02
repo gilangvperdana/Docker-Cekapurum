@@ -6,7 +6,7 @@ Ardio's project which requires containerization in the process of deploying this
 
 ## Before
 
-Make sure on public>sensor.html line 19 to change to your IP.
+Make sure on `public>sensor.html line 19` to change to your IP.
 
 ## Requirements
  1. DOCKER
@@ -26,6 +26,3 @@ Make sure on public>sensor.html line 19 to change to your IP.
 ## if you are lazy to create an image:
   1. Type `docker pull gilangvperdana/cekapurum:80`
   2. After the image is downloaded, run the images.
-
-## This final site has been deployed on:
- `cekapurum.gbesar.com`
