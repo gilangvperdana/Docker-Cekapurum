@@ -4,9 +4,6 @@
 
 Ardio's project which requires containerization in the process of deploying this "CEKAPURUM" application.
 
-## Before
-
-Make sure on `public>sensor.html line 19` to change to your IP.
 
 ## Requirements
  1. DOCKER
