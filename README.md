@@ -21,5 +21,6 @@ Ardio's project which requires containerization in the process of deploying this
   3. Access on `localhost:80`
   
 ## if you are lazy to create an image:
-  1. Type `docker pull gilangvperdana/cekapurum`
+  1. Type `docker pull gilangvperdana/cekapurum` [Source : https://hub.docker.com/repository/docker/gilangvperdana/cekapurum/general ]
   2. After the image is downloaded, run the images.
+
