@@ -16,7 +16,7 @@
         $(document).ready(function() {
             setInterval(function() {
                 $.ajax({
-                    url: 'http://vps.gbesar.com:3000/data',
+                    url: '/data',
                     dataType: 'json',
                     success: function(data) {
                         console.log(data);
